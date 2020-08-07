@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshops on jiku.pro</title>
-    <link>jiku-pro.github.io/expertise-workshops/</link>
+    <link>https://jiku-pro.github.io/expertise-workshops/</link>
     <description>Recent content in Workshops on jiku.pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Jiku Pte Ltd.](https://jiku.pro) All Rights Reserved</copyright>
     
-	<atom:link href="jiku-pro.github.io/expertise-workshops/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiku-pro.github.io/expertise-workshops/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

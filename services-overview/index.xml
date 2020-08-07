@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services Overview on jiku.pro</title>
-    <link>jiku-pro.github.io/services-overview/</link>
+    <link>https://jiku-pro.github.io/services-overview/</link>
     <description>Recent content in Services Overview on jiku.pro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 [Jiku Pte Ltd.](https://jiku.pro) All Rights Reserved</copyright>
     <lastBuildDate>Mon, 23 Mar 2020 13:05:29 +0600</lastBuildDate>
     
-	<atom:link href="jiku-pro.github.io/services-overview/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiku-pro.github.io/services-overview/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
